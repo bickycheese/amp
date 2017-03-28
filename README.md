@@ -1,3 +1,3 @@
-# amp
-Electron Rainbow maker
+# Amp
+Electron powered rainbow maker!
 ___
